@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color:	rgb(248, 248, 248);
+    font-family: 'Open Sans', sans-serif;
+    background-image: url("https://w0.peakpx.com/wallpaper/9/32/HD-wallpaper-punch-hole-minion.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-style: initial;
+    background-color: lawngreen;
+}
+#output {
+    max-width: 60%;
+    height: 50%;
+    border: 2px solid black;
+    margin: auto;
+    background-color: white;
+    display: block;
+    padding: 2rem;
+}
+#btnrewrite {
+    width: 20%;
+    height: 4vh;
+    background-color:	#a9947b;
+    border-radius: 0.3rem;
+}
+#btnrewrite:hover{
+    color:	#df230a;
+}
+.entry{
+    color: #e96957;
+}
+#mid{
+    color:#CD212A;
+}
+#middle{
+    color:#000000;
+}
+#down{
+    color:#00758F;
+}
+h3{
+    font-weight:lighter;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+}
+h2{
+    font-variant: small-caps;
+    font-weight: bold;
+}
+p{
+    font-size:large;
+    font-family: 'Times New Roman', Times, serif;
+}
